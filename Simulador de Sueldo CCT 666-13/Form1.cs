@@ -16,5 +16,11 @@ namespace Simulador_de_Sueldo_CCT_666_13
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
